@@ -1,8 +1,11 @@
-### Requeriments FlaskMovies
+![image](https://user-images.githubusercontent.com/33910768/196524667-5b9d76e3-68ef-467e-99d3-a90902cd30cf.png)
+
+This is a movie and actor review platform using imdb top 250 datas. I used BeautifulSoup for scraping imdb datas and Flask, Python, PostgreSQL for webapp. Also this is my first project of learning backend development.
+
+### Requirements FlaskMovies
 
 | Package | Version |
 | ----------- | ----------- |
-| click | 8.1.3 |
 | colorama | 0.4.5 |
 | Flask | 2.2.2 |
 | itsdangerous | 2.1.2 |
@@ -13,7 +16,7 @@
 | setuptools | 63.2. |
 | Werkzeug | 2.2. |
 
-## Requeriments Scrapp
+## Requirements Scrapp
 
 | Package | Version |
 | ----------- | ----------- |
@@ -42,7 +45,7 @@ set FLASK_APP=imdb
 flask run
 ```
 
-*will run your local host, also you can run in debug set app.py to run.py select python falsk instead of python*
+*will run your local host, also you can run in debug, set app.py to run.py, select python flask instead of python*
 
 
 ### RUN SCRAPP
