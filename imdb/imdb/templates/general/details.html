@@ -1,0 +1,121 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+<div class="col-sm-4">
+    <div style="margin-top: 100px;">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="centering text-center">
+                    <!--#if there is an animation movie there is no stars
+                        #it should be vice actor-->
+                    {% if voice_actor == True %}
+                        <h1>Voice Actors</h1>
+                    {% else %}
+                        <h1>Stars</h1>
+                    {% endif %}
+                    <hr>
+                    <div class="row">
+                        {% for actor in actors %}
+                        <div>
+                            <a href="{{ url_for('general.actor_details', actor_id = actor.id) }}"><img src="{{ actor.photo }}" class="" height="200" width="150"></a>
+                            <p><a href="{{ url_for('general.actor_details', actor_id = actor.id) }}">{{ actor.name }}</a></p><!--HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA HREF EKELNECEK BURAYA -->
+                        </div>
+                        <hr>
+                        {% endfor %}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-sm-4">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="centering text-center">
+                {% for detail in movie_details %}
+                    <h1>{{ detail.title }}</h1>
+                    <img src="{{ detail.poster }}" width="400" height="600">
+                    <h4>Rank: {{ detail.rank }}</h4>
+                    <h4>Rate: <span class="badge">{{ detail.rate }}</span></h4>
+                    <h4>Year: {{ detail.year }}</h4>
+                    <h4>{{ detail.description }}</h4>
+                    {% for director in directors %}
+                        <h4>Director: {{ director.name }}</h4>
+                    {% endfor %}
+
+                    {% if session["username"] %}
+                    <h4>Watchlist:
+                        {% if flag == True %}
+                        <a href="{{ url_for('general.remove_watchlist', movie_id=detail.id) }}"><span class="glyphicon glyphicon-minus"></span></a>
+                        {% else %}
+                        <a href="{{ url_for('general.add_watchlist', movie_id=detail.id) }}"><span class="glyphicon glyphicon-plus"></span></a>
+                        {% endif %}
+                    </h4>
+                    {% endif %}
+
+                    
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>   
+</div>
+
+
+<div class="col-sm-4">
+    <div style="margin-top: 150px;">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <h3>Leave a comment</h3>
+                <hr>
+                {% if session["username"] %}
+                {% for detail in movie_details %}
+                <form action="{{ url_for('general.add_comment_movie', movie_id = detail.id) }}" method="POST">
+                {% endfor %}
+                    <div class="form-group">
+                        <textarea class="form-control" rows="3" required name="comment_body"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </form>
+                {% else %}
+                <div class="form-group">
+                    <a href="{{ url_for('registration.signup') }}"><textarea class="form-control" rows="3" disabled value="Login requiered"></textarea></a>
+                </div>
+                    <button type="submit" class="btn btn-success" disabled>Submit</button>
+                {% endif %}
+
+
+                <h3>Comments:</h3>
+                {# id=row[0],
+                username=row[1],
+                movie_imdb_id=row[2],
+                comment=row[3],
+                date=row[4] #}
+
+                {% for comment in comments %}
+                <h4>{{ comment.username }} <small>| Posted at: {{ comment.date }}</small></h4>
+                    <p>{{ comment.comment }}</p>
+                    <hr>
+                {% endfor %}
+
+                <!--COMMENT PAGINATOIN-->
+                <ul class="pagination">
+                {% for page in total_pages %}
+                    <li><a href="{{ url_for('general.details', movie_id=movie_id, page=page) }}">{{ page }}</a></li>
+                {% endfor %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

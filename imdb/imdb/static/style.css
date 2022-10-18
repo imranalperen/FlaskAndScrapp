@@ -1,0 +1,30 @@
+html, body{height:100%; margin:0;padding:0}
+
+.top_margin_registration {
+    margin-top: 100px;
+}
+
+.top-margin-genres {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+ 
+.container-fluid{
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 0;
+}
+ 
+.row-fluid {height: 100%; display:table-cell; vertical-align: middle;}
+ 
+ 
+
+.centering {
+  float:none;
+  margin:0 auto;
+}
+
+
+tr:hover {background-color: #EBEDED;}

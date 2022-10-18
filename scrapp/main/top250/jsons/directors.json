@@ -1,0 +1,618 @@
+[
+  {
+    "imdb_id": "/name/nm0001104/",
+    "name": "Frank Darabont"
+  },
+  {
+    "imdb_id": "/name/nm0000338/",
+    "name": "Francis Ford Coppola"
+  },
+  {
+    "imdb_id": "/name/nm0634240/",
+    "name": "Christopher Nolan"
+  },
+  {
+    "imdb_id": "/name/nm0001486/",
+    "name": "Sidney Lumet"
+  },
+  {
+    "imdb_id": "/name/nm0000229/",
+    "name": "Steven Spielberg"
+  },
+  {
+    "imdb_id": "/name/nm0001392/",
+    "name": "Peter Jackson"
+  },
+  {
+    "imdb_id": "/name/nm0000233/",
+    "name": "Quentin Tarantino"
+  },
+  {
+    "imdb_id": "/name/nm0001466/",
+    "name": "Sergio Leone"
+  },
+  {
+    "imdb_id": "/name/nm0000709/",
+    "name": "Robert Zemeckis"
+  },
+  {
+    "imdb_id": "/name/nm0000399/",
+    "name": "David Fincher"
+  },
+  {
+    "imdb_id": "/name/nm0449984/",
+    "name": "Irvin Kershner"
+  },
+  {
+    "imdb_id": "/name/nm0905154/",
+    "name": "Lana Wachowski"
+  },
+  {
+    "imdb_id": "/name/nm0000217/",
+    "name": "Martin Scorsese"
+  },
+  {
+    "imdb_id": "/name/nm0001232/",
+    "name": "Milos Forman"
+  },
+  {
+    "imdb_id": "/name/nm0000041/",
+    "name": "Akira Kurosawa"
+  },
+  {
+    "imdb_id": "/name/nm0001008/",
+    "name": "Frank Capra"
+  },
+  {
+    "imdb_id": "/name/nm0001129/",
+    "name": "Jonathan Demme"
+  },
+  {
+    "imdb_id": "/name/nm0576987/",
+    "name": "Fernando Meirelles"
+  },
+  {
+    "imdb_id": "/name/nm0000905/",
+    "name": "Roberto Benigni"
+  },
+  {
+    "imdb_id": "/name/nm0000184/",
+    "name": "George Lucas"
+  },
+  {
+    "imdb_id": "/name/nm0000116/",
+    "name": "James Cameron"
+  },
+  {
+    "imdb_id": "/name/nm0594503/",
+    "name": "Hayao Miyazaki"
+  },
+  {
+    "imdb_id": "/name/nm0000033/",
+    "name": "Alfred Hitchcock"
+  },
+  {
+    "imdb_id": "/name/nm0000591/",
+    "name": "Roman Polanski"
+  },
+  {
+    "imdb_id": "/name/nm0000108/",
+    "name": "Luc Besson"
+  },
+  {
+    "imdb_id": "/name/nm0094435/",
+    "name": "Bong Joon Ho"
+  },
+  {
+    "imdb_id": "/name/nm0021249/",
+    "name": "Roger Allers"
+  },
+  {
+    "imdb_id": "/name/nm0000631/",
+    "name": "Ridley Scott"
+  },
+  {
+    "imdb_id": "/name/nm0443411/",
+    "name": "Tony Kaye"
+  },
+  {
+    "imdb_id": "/name/nm0001741/",
+    "name": "Bryan Singer"
+  },
+  {
+    "imdb_id": "/name/nm0002031/",
+    "name": "Michael Curtiz"
+  },
+  {
+    "imdb_id": "/name/nm3227090/",
+    "name": "Damien Chazelle"
+  },
+  {
+    "imdb_id": "/name/nm0619923/",
+    "name": "Olivier Nakache"
+  },
+  {
+    "imdb_id": "/name/nm0462030/",
+    "name": "Masaki Kobayashi"
+  },
+  {
+    "imdb_id": "/name/nm0847223/",
+    "name": "Isao Takahata"
+  },
+  {
+    "imdb_id": "/name/nm0000122/",
+    "name": "Charles Chaplin"
+  },
+  {
+    "imdb_id": "/name/nm0868153/",
+    "name": "Giuseppe Tornatore"
+  },
+  {
+    "imdb_id": "/name/nm0004056/",
+    "name": "Andrew Stanton"
+  },
+  {
+    "imdb_id": "/name/nm0003697/",
+    "name": "Florian Henckel von Donnersmarck"
+  },
+  {
+    "imdb_id": "/name/nm0000697/",
+    "name": "Billy Wilder"
+  },
+  {
+    "imdb_id": "/name/nm0000040/",
+    "name": "Stanley Kubrick"
+  },
+  {
+    "imdb_id": "/name/nm0751577/",
+    "name": "Anthony Russo"
+  },
+  {
+    "imdb_id": "/name/nm0005222/",
+    "name": "Sam Mendes"
+  },
+  {
+    "imdb_id": "/name/nm2130108/",
+    "name": "Bob Persichetti"
+  },
+  {
+    "imdb_id": "/name/nm0661791/",
+    "name": "Park Chan-wook"
+  },
+  {
+    "imdb_id": "/name/nm0680846/",
+    "name": "Todd Phillips"
+  },
+  {
+    "imdb_id": "/name/nm2676052/",
+    "name": "Joseph Kosinski"
+  },
+  {
+    "imdb_id": "/name/nm0005124/",
+    "name": "John Lasseter"
+  },
+  {
+    "imdb_id": "/name/nm0000154/",
+    "name": "Mel Gibson"
+  },
+  {
+    "imdb_id": "/name/nm0881279/",
+    "name": "Lee Unkrich"
+  },
+  {
+    "imdb_id": "/name/nm0000583/",
+    "name": "Wolfgang Petersen"
+  },
+  {
+    "imdb_id": "/name/nm0001814/",
+    "name": "Gus Van Sant"
+  },
+  {
+    "imdb_id": "/name/nm1396121/",
+    "name": "Makoto Shinkai"
+  },
+  {
+    "imdb_id": "/name/nm0004716/",
+    "name": "Darren Aronofsky"
+  },
+  {
+    "imdb_id": "/name/nm0002045/",
+    "name": "Stanley Donen"
+  },
+  {
+    "imdb_id": "/name/nm0386246/",
+    "name": "Rajkumar Hirani"
+  },
+  {
+    "imdb_id": "/name/nm0549658/",
+    "name": "Richard Marquand"
+  },
+  {
+    "imdb_id": "/name/nm0327273/",
+    "name": "Michel Gondry"
+  },
+  {
+    "imdb_id": "/name/nm1701024/",
+    "name": "Nadine Labaki"
+  },
+  {
+    "imdb_id": "/name/nm0899121/",
+    "name": "Thomas Vinterberg"
+  },
+  {
+    "imdb_id": "/name/nm0000080/",
+    "name": "Orson Welles"
+  },
+  {
+    "imdb_id": "/name/nm0000180/",
+    "name": "David Lean"
+  },
+  {
+    "imdb_id": "/name/nm0000485/",
+    "name": "Fritz Lang"
+  },
+  {
+    "imdb_id": "/name/nm0459552/",
+    "name": "Elem Klimov"
+  },
+  {
+    "imdb_id": "/name/nm0000466/",
+    "name": "Jean-Pierre Jeunet"
+  },
+  {
+    "imdb_id": "/name/nm2371802/",
+    "name": "Thomas Kail"
+  },
+  {
+    "imdb_id": "/name/nm0000361/",
+    "name": "Brian De Palma"
+  },
+  {
+    "imdb_id": "/name/nm0001351/",
+    "name": "George Roy Hill"
+  },
+  {
+    "imdb_id": "/name/nm0612322/",
+    "name": "Robert Mulligan"
+  },
+  {
+    "imdb_id": "/name/nm0000520/",
+    "name": "Michael Mann"
+  },
+  {
+    "imdb_id": "/name/nm0230032/",
+    "name": "Pete Docter"
+  },
+  {
+    "imdb_id": "/name/nm0898288/",
+    "name": "Denis Villeneuve"
+  },
+  {
+    "imdb_id": "/name/nm1410815/",
+    "name": "Asghar Farhadi"
+  },
+  {
+    "imdb_id": "/name/nm0000436/",
+    "name": "Curtis Hanson"
+  },
+  {
+    "imdb_id": "/name/nm0005363/",
+    "name": "Guy Ritchie"
+  },
+  {
+    "imdb_id": "/name/nm0001120/",
+    "name": "Vittorio De Sica"
+  },
+  {
+    "imdb_id": "/name/nm0001532/",
+    "name": "John McTiernan"
+  },
+  {
+    "imdb_id": "/name/nm0451148/",
+    "name": "Aamir Khan"
+  },
+  {
+    "imdb_id": "/name/nm0386570/",
+    "name": "Oliver Hirschbiegel"
+  },
+  {
+    "imdb_id": "/name/nm4318159/",
+    "name": "Nitesh Tiwari"
+  },
+  {
+    "imdb_id": "/name/nm0000581/",
+    "name": "Joseph L. Mankiewicz"
+  },
+  {
+    "imdb_id": "/name/nm1725469/",
+    "name": "Florian Zeller"
+  },
+  {
+    "imdb_id": "/name/nm0268380/",
+    "name": "Peter Farrelly"
+  },
+  {
+    "imdb_id": "/name/nm0006452/",
+    "name": "Stanley Kramer"
+  },
+  {
+    "imdb_id": "/name/nm0868219/",
+    "name": "Guillermo del Toro"
+  },
+  {
+    "imdb_id": "/name/nm0000142/",
+    "name": "Clint Eastwood"
+  },
+  {
+    "imdb_id": "/name/nm1218281/",
+    "name": "Jon Watts"
+  },
+  {
+    "imdb_id": "/name/nm0000759/",
+    "name": "Paul Thomas Anderson"
+  },
+  {
+    "imdb_id": "/name/nm0001837/",
+    "name": "Peter Weir"
+  },
+  {
+    "imdb_id": "/name/nm0796117/",
+    "name": "M. Night Shyamalan"
+  },
+  {
+    "imdb_id": "/name/nm0000165/",
+    "name": "Ron Howard"
+  },
+  {
+    "imdb_id": "/name/nm0000416/",
+    "name": "Terry Gilliam"
+  },
+  {
+    "imdb_id": "/name/nm0001379/",
+    "name": "John Huston"
+  },
+  {
+    "imdb_id": "/name/nm0836328/",
+    "name": "John Sturges"
+  },
+  {
+    "imdb_id": "/name/nm0001053/",
+    "name": "Ethan Coen"
+  },
+  {
+    "imdb_id": "/name/nm0000186/",
+    "name": "David Lynch"
+  },
+  {
+    "imdb_id": "/name/nm0000118/",
+    "name": "John Carpenter"
+  },
+  {
+    "imdb_id": "/name/nm0281808/",
+    "name": "Victor Fleming"
+  },
+  {
+    "imdb_id": "/name/nm0574625/",
+    "name": "James McTeigue"
+  },
+  {
+    "imdb_id": "/name/nm0002728/",
+    "name": "Juan Jos\u00e9 Campanella"
+  },
+  {
+    "imdb_id": "/name/nm1732981/",
+    "name": "Martin McDonagh"
+  },
+  {
+    "imdb_id": "/name/nm0000965/",
+    "name": "Danny Boyle"
+  },
+  {
+    "imdb_id": "/name/nm0640334/",
+    "name": "Gavin O'Connor"
+  },
+  {
+    "imdb_id": "/name/nm0001054/",
+    "name": "Joel Coen"
+  },
+  {
+    "imdb_id": "/name/nm0006498/",
+    "name": "Majid Majidi"
+  },
+  {
+    "imdb_id": "/name/nm0001415/",
+    "name": "Elia Kazan"
+  },
+  {
+    "imdb_id": "/name/nm0715346/",
+    "name": "Carol Reed"
+  },
+  {
+    "imdb_id": "/name/nm2588606/",
+    "name": "Steve McQueen"
+  },
+  {
+    "imdb_id": "/name/nm0000500/",
+    "name": "Richard Linklater"
+  },
+  {
+    "imdb_id": "/name/nm0000005/",
+    "name": "Ingmar Bergman"
+  },
+  {
+    "imdb_id": "/name/nm0943758/",
+    "name": "William Wyler"
+  },
+  {
+    "imdb_id": "/name/nm0946734/",
+    "name": "David Yates"
+  },
+  {
+    "imdb_id": "/name/nm0115669/",
+    "name": "Clyde Bruckman"
+  },
+  {
+    "imdb_id": "/name/nm0001047/",
+    "name": "Michael Cimino"
+  },
+  {
+    "imdb_id": "/name/nm0006487/",
+    "name": "Jim Sheridan"
+  },
+  {
+    "imdb_id": "/name/nm0027572/",
+    "name": "Wes Anderson"
+  },
+  {
+    "imdb_id": "/name/nm0167241/",
+    "name": "Henri-Georges Clouzot"
+  },
+  {
+    "imdb_id": "/name/nm0000036/",
+    "name": "Buster Keaton"
+  },
+  {
+    "imdb_id": "/name/nm0655053/",
+    "name": "Sergio Pablos"
+  },
+  {
+    "imdb_id": "/name/nm1167933/",
+    "name": "Dami\u00e1n Szifron"
+  },
+  {
+    "imdb_id": "/name/nm1049433/",
+    "name": "Lenny Abrahamson"
+  },
+  {
+    "imdb_id": "/name/nm0004306/",
+    "name": "George Miller"
+  },
+  {
+    "imdb_id": "/name/nm0254178/",
+    "name": "Adam Elliot"
+  },
+  {
+    "imdb_id": "/name/nm0213450/",
+    "name": "Dean DeBlois"
+  },
+  {
+    "imdb_id": "/name/nm0003433/",
+    "name": "Carl Theodor Dreyer"
+  },
+  {
+    "imdb_id": "/name/nm0654868/",
+    "name": "Yasujir\u00f4 Ozu"
+  },
+  {
+    "imdb_id": "/name/nm0313623/",
+    "name": "Terry George"
+  },
+  {
+    "imdb_id": "/name/nm3453283/",
+    "name": "Dan Kwan"
+  },
+  {
+    "imdb_id": "/name/nm0003506/",
+    "name": "James Mangold"
+  },
+  {
+    "imdb_id": "/name/nm0000814/",
+    "name": "John G. Avildsen"
+  },
+  {
+    "imdb_id": "/name/nm0000231/",
+    "name": "Oliver Stone"
+  },
+  {
+    "imdb_id": "/name/nm0006249/",
+    "name": "Satyajit Ray"
+  },
+  {
+    "imdb_id": "/name/nm0001661/",
+    "name": "Rob Reiner"
+  },
+  {
+    "imdb_id": "/name/nm0565336/",
+    "name": "Tom McCarthy"
+  },
+  {
+    "imdb_id": "/name/nm0083348/",
+    "name": "Brad Bird"
+  },
+  {
+    "imdb_id": "/name/nm0000576/",
+    "name": "Sean Penn"
+  },
+  {
+    "imdb_id": "/name/nm0000601/",
+    "name": "Harold Ramis"
+  },
+  {
+    "imdb_id": "/name/nm0001243/",
+    "name": "William Friedkin"
+  },
+  {
+    "imdb_id": "/name/nm0523932/",
+    "name": "Ernst Lubitsch"
+  },
+  {
+    "imdb_id": "/name/nm0690597/",
+    "name": "Gillo Pontecorvo"
+  },
+  {
+    "imdb_id": "/name/nm4377096/",
+    "name": "T.J. Gnanavel"
+  },
+  {
+    "imdb_id": "/name/nm0000406/",
+    "name": "John Ford"
+  },
+  {
+    "imdb_id": "/name/nm0002120/",
+    "name": "Lasse Hallstr\u00f6m"
+  },
+  {
+    "imdb_id": "/name/nm0327944/",
+    "name": "Alejandro G. I\u00f1\u00e1rritu"
+  },
+  {
+    "imdb_id": "/name/nm1463981/",
+    "name": "Cagan Irmak"
+  },
+  {
+    "imdb_id": "/name/nm0893659/",
+    "name": "Gore Verbinski"
+  },
+  {
+    "imdb_id": "/name/nm0742341/",
+    "name": "Stuart Rosenberg"
+  },
+  {
+    "imdb_id": "/name/nm0440913/",
+    "name": "Mathieu Kassovitz"
+  },
+  {
+    "imdb_id": "/name/nm0000076/",
+    "name": "Fran\u00e7ois Truffaut"
+  },
+  {
+    "imdb_id": "/name/nm0001402/",
+    "name": "Terry Jones"
+  },
+  {
+    "imdb_id": "/name/nm0936404/",
+    "name": "Robert Wise"
+  },
+  {
+    "imdb_id": "/name/nm0000277/",
+    "name": "Richard Attenborough"
+  },
+  {
+    "imdb_id": "/name/nm0853238/",
+    "name": "Tate Taylor"
+  },
+  {
+    "imdb_id": "/name/nm0166256/",
+    "name": "Ron Clements"
+  }
+]

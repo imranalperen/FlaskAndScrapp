@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+<div class="col-sm-4">
+
+</div>
+
+
+
+<div class="col-sm-4">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="centering text-center">
+                <h1>Activities</h1>
+                <h4><small>Last 20 Activities In Flask~Movies</small></h4><hr>
+                {% for activitie in activities %}
+
+                    {% if activitie.activity_type == "ADD_WATCHLIST" %}
+                        <h4>{{ activitie.username }} <small> | Added at: {{ activitie.date }}</small></h4>
+                        <p>{{ activitie.movie_title }}</p>
+                            <div class="container-fluid">
+                                <div class="row-fluid">
+                                    <div class="centering text-center">
+                                        <img src="{{ activitie.movie_poster }}" height="80" width="60">
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                    {% endif %}
+
+                    {% if activitie.activity_type == "ADD_MOVIE_COMMENT" %}
+                        <h4>{{ activitie.username }} <small> | Posted at: {{ activitie.date }} </small></h4>
+                        <p>{{ activitie.movie_title }}</p>
+                            <div class="container-fluid">
+                                <div class="row-fluid">
+                                    <div class="centering text-center">
+                                        <img src="{{ activitie.movie_poster }}" height="80" width="60">
+                                    </div>
+                                </div>
+                            </div>
+                        <h4><small>Comment: </small></h4><p>{{ activitie.movie_comment }}</p>
+                        <hr>
+                    {% endif %}
+
+                    {% if activitie.activity_type == "ADD_ACTOR_COMMENT" %}
+                        <h4>{{ activitie.username }} <small> | Posted at: {{ activitie.date }} </small></h4>
+                        <p>{{ activitie.actor_name }}</p>
+                            <div class="container-fluid">
+                                <div class="row-fluid">
+                                    <div class="centering text-center">
+                                        <img src="{{ activitie.actor_photo }}" height="80" width="60">
+                                    </div>
+                                </div>
+                            </div>
+                        <h4><small>Comment: </small></h4><p>{{ activitie.actor_comment }}</p>
+                        <hr>
+                    {% endif %}
+                    
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="col-sm-4">
+
+</div>
+{% endblock %}

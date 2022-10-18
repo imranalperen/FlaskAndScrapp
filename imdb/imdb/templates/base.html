@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    {% block head %}{% endblock %}
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{{ url_for('general.index') }}"> ~Flask Movies~ </a>
+            </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ url_for('general.movies', page=1) }}">Movies</a></li>
+                    <li><a href="{{ url_for('general.actors', letter='A') }}">Actors</a></li>
+                    {% if session["username"] %}
+                    <li><a href="{{ url_for('activity.main') }}">Activities</a></li>+
+                    {% endif %}
+                </ul>
+
+                {% if not session["username"] %}
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="{{ url_for('registration.signup') }}"><span class="glyphicon glyphicon-user"></span> Sign Up </a></li>
+                    <li><a href="{{ url_for('registration.login') }}"><span class="glyphicon glyphicon-log-in"></span> Login </a></li>
+                </ul>
+                {% else %}
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="{{ url_for('profile.profile_watchlist', username = session['username']) }}"><span class="glyphicon glyphicon-user"></span> {{ session['username'] }} </a></li>
+                    <li><a href="{{ url_for('registration.logout') }}"><span class="glyphicon glyphicon-log-out"></span> Logout </a></li>
+                </ul>
+                {% endif %}
+
+                <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <form class="navbar-form navbar-left" action="{{ url_for('general.search') }}" method="POST">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search" name="search_box_input" required>
+                        </div>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+                </li>
+                </ul>
+        </div>
+    </nav>
+
+    {% block body %}{% endblock %}
+  
+</body>
+</html>

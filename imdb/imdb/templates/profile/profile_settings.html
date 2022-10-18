@@ -1,0 +1,24 @@
+{% extends 'profile/baseprofile.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+
+    <h4><small>PROFILE SETTINGS</small></h4>
+    <br>
+    {% for u in user %}
+    <h5>{{ u.username }}</h5>
+    <hr>
+    <h5>{{ u.email }}</h5>
+    {% endfor %}
+    <hr>
+    <a href="{{ url_for('registration.forgotpassword') }}">Change Password</a>
+    <br>
+    <br>
+    <br>
+    <h5><a href="{{ url_for('profile.delete_accaunt', uname=uname) }}">DELETE ACCAUNT</a></h5>
+        
+{% endblock %}

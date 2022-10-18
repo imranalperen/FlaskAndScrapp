@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+<div class="col-sm-4"></div>
+
+
+<div class="col-sm-4">
+    <div>
+
+
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="centering text-center">
+                    <ul class="pagination">
+                    {% for letter in alphabet %}
+                        <li><a href="{{ url_for('general.actors', letter=letter) }}">{{ letter }}</a></li>
+                    {% endfor %}
+                    </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+        <h2>Actors</h2>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Photo</th>
+                    <th>Name</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for actor in all_actors %}
+                    <tr>
+                        <td><a href="{{ url_for('general.actor_details', actor_id = actor.id) }}"><img src="{{ actor.photo }}" height="80" width="60"></a></td>
+                        <td>{{ actor.name }}</td>
+                        <td><a href="{{ url_for('general.actor_details', actor_id = actor.id) }}">Details</a></td>
+                        <td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+<div class="col-sm-4"></div>
+{% endblock %}

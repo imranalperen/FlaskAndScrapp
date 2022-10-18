@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+<div class="col-sm-4">
+    <div class="container" style="margin-top: 100px;">
+        <table>
+            <tbody>
+                <td><a href="{{ url_for('general.movies', page=1) }}">Top250</a></td>
+                {% for genre in genres %}
+                    <tr>
+                        <td><a href="{{ url_for('general.movies_by_genre', genre = genre.genre_title) }}">{{ genre.genre_title }}</a></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<div class="col-sm-4">
+    <div>
+        <h2>{{ title }} Movies</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Poster</th>
+                    <th>Rank</th>
+                    <th>Rate</th>
+                    <th>Title</th>
+                    <th>Details</th>
+                    {% if session['username'] %}
+                        <th>WL</th>
+                    {% endif %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for movie in movies_list %}
+                    <tr>
+                        <td><a href="{{ url_for('general.details', movie_id = movie.id) }}"><img src="{{ movie.poster }}" height="80" width="60"></a></td>
+                        <td>{{ movie.rank }}</td>
+                        <td><span class="badge">{{ movie.rate }}</span></td>
+                        <td>{{ movie.title }}</td>
+                        <td><a href="{{ url_for('general.details', movie_id = movie.id) }}">Details</a></td>
+                        <td>
+                        {% if session["username"] %}
+                            {% if movie.id in watchlist_movie_ids %}
+                                <a href="{{ url_for('general.remove_watchlist', movie_id=movie.id) }}"><span class="glyphicon glyphicon-minus"></span></a>
+                            {% else %}
+                                <a href="{{ url_for('general.add_watchlist', movie_id=movie.id) }}"><span class="glyphicon glyphicon-plus"></span></a>
+                            {% endif %}
+                        {% endif %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="centering text-center">
+                    <ul class="pagination">
+                    {% for page in total_pages%}
+                        <li><a href="{{ url_for('general.movies', page=page) }}">{{ page }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-4"></div>
+{% endblock %}

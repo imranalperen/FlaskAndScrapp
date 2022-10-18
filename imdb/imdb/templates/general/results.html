@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+<div class="col-sm-4"></div>
+
+
+<div class="col-sm-4">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="centering text-center">
+                {% if movies != [] %}
+                    <h4><small>{{ lenmovies }} results in movies</small></h4>
+                    <hr>
+                    {% for movie in movies %}
+                        <a href="{{ url_for('general.details', movie_id=movie.id) }}"><p>{{ movie.title }}</p></a>
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="centering text-center">
+                                    <a href="{{ url_for('general.details', movie_id=movie.id) }}"><img src="{{ movie.poster }}" height="80" width="60"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                    {% endfor %}
+                {% endif %}
+
+                {% if actors != [] %}
+                    <h4><small>{{ lenactors }} results in actors</small></h4>
+                    <hr>
+                    {% for actor in actors %}
+                        <a href="{{ url_for('general.actor_details', actor_id=actor.id) }}"><p>{{ actor.name }}</p></a>
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="centering text-center">
+                                    <a href="{{ url_for('general.actor_details', actor_id=actor.id) }}"><img src="{{ actor.photo }}" height="80" width="60"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                    {% endfor %}
+                {% endif %}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-4"></div>
+{% endblock %}

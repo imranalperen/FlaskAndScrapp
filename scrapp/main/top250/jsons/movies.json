@@ -1,0 +1,2252 @@
+[
+  {
+    "imdb_id": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(1994)",
+    "rank": "1",
+    "rate": "9.2",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "imdb_id": "tt0068646",
+    "title": "The Godfather",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(1972)",
+    "rank": "2",
+    "rate": "9.2",
+    "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."
+  },
+  {
+    "imdb_id": "tt0468569",
+    "title": "The Dark Knight",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "year": "(2008)",
+    "rank": "3",
+    "rate": "9.0",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "imdb_id": "tt0071562",
+    "title": "The Godfather Part II",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1974)",
+    "rank": "4",
+    "rate": "9.0",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+    "imdb_id": "tt0050083",
+    "title": "12 Angry Men",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "5",
+    "rate": "9.0",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+  },
+  {
+    "imdb_id": "tt0108052",
+    "title": "Schindler's List",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1993)",
+    "rank": "6",
+    "rate": "8.9",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  },
+  {
+    "imdb_id": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "7",
+    "rate": "8.9",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+  },
+  {
+    "imdb_id": "tt0110912",
+    "title": "Pulp Fiction",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1994)",
+    "rank": "8",
+    "rate": "8.8",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "imdb_id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDcyNzRkNWEtYzUwMS00Mzc4LWFkNjMtNDQ0ZDQzMmFiY2E0XkEyXkFqcGdeQXVyMzI3MDY1MTg@._V1_.jpg",
+    "year": "(2001)",
+    "rank": "9",
+    "rate": "8.8",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+  },
+  {
+    "imdb_id": "tt0060196",
+    "title": "Il buono, il brutto, il cattivo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1966)",
+    "rank": "10",
+    "rate": "8.8",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+  },
+  {
+    "imdb_id": "tt0109830",
+    "title": "Forrest Gump",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1994)",
+    "rank": "11",
+    "rate": "8.8",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+  },
+  {
+    "imdb_id": "tt0137523",
+    "title": "Fight Club",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1999)",
+    "rank": "12",
+    "rate": "8.7",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "imdb_id": "tt1375666",
+    "title": "Inception",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBhZDFmNDMtODUwZC00OWYwLTk5NmItZDA1YmNmMTdlOTc3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2010)",
+    "rank": "13",
+    "rate": "8.7",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+  },
+  {
+    "imdb_id": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2002)",
+    "rank": "14",
+    "rate": "8.7",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+  },
+  {
+    "imdb_id": "tt0080684",
+    "title": "The Empire Strikes Back",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3OTEyYTYtYjNlMi00ZWIyLWJhYzUtOTQ4OWZkYTA5N2I5XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(1980)",
+    "rank": "15",
+    "rate": "8.7",
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
+  },
+  {
+    "imdb_id": "tt0133093",
+    "title": "The Matrix",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1999)",
+    "rank": "16",
+    "rate": "8.7",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+  },
+  {
+    "imdb_id": "tt0099685",
+    "title": "Goodfellas",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1990)",
+    "rank": "17",
+    "rate": "8.7",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+  },
+  {
+    "imdb_id": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1975)",
+    "rank": "18",
+    "rate": "8.6",
+    "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse."
+  },
+  {
+    "imdb_id": "tt0114369",
+    "title": "Se7en",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "19",
+    "rate": "8.6",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+  },
+  {
+    "imdb_id": "tt0047478",
+    "title": "Shichinin no samurai",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "year": "(1954)",
+    "rank": "20",
+    "rate": "8.6",
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits."
+  },
+  {
+    "imdb_id": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+    "year": "(1946)",
+    "rank": "21",
+    "rate": "8.6",
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+  },
+  {
+    "imdb_id": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1991)",
+    "rank": "22",
+    "rate": "8.6",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+  },
+  {
+    "imdb_id": "tt0317248",
+    "title": "Cidade de Deus",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(2002)",
+    "rank": "23",
+    "rate": "8.6",
+    "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+  },
+  {
+    "imdb_id": "tt0120815",
+    "title": "Saving Private Ryan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "year": "(1998)",
+    "rank": "24",
+    "rate": "8.6",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+  },
+  {
+    "imdb_id": "tt0118799",
+    "title": "La vita \u00e8 bella",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1997)",
+    "rank": "25",
+    "rate": "8.6",
+    "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp."
+  },
+  {
+    "imdb_id": "tt0816692",
+    "title": "Interstellar",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJmM2RkZjUtYzk2OC00NzczLWI0ZWMtZjU1MDg2MmNiZjc4XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2014)",
+    "rank": "26",
+    "rate": "8.6",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "imdb_id": "tt0120689",
+    "title": "The Green Mile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "year": "(1999)",
+    "rank": "27",
+    "rate": "8.6",
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+  },
+  {
+    "imdb_id": "tt0076759",
+    "title": "Star Wars",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+    "year": "(1977)",
+    "rank": "28",
+    "rate": "8.6",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+  },
+  {
+    "imdb_id": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1991)",
+    "rank": "29",
+    "rate": "8.5",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg."
+  },
+  {
+    "imdb_id": "tt0088763",
+    "title": "Back to the Future",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1985)",
+    "rank": "30",
+    "rate": "8.5",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+  },
+  {
+    "imdb_id": "tt0245429",
+    "title": "Sen to Chihiro no kamikakushi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2001)",
+    "rank": "31",
+    "rate": "8.5",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+  },
+  {
+    "imdb_id": "tt0054215",
+    "title": "Psycho",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1960)",
+    "rank": "32",
+    "rate": "8.5",
+    "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother."
+  },
+  {
+    "imdb_id": "tt0253474",
+    "title": "The Pianist",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2002)",
+    "rank": "33",
+    "rate": "8.5",
+    "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+  },
+  {
+    "imdb_id": "tt0110413",
+    "title": "L\u00e9on",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1994)",
+    "rank": "34",
+    "rate": "8.5",
+    "description": "12-year-old Mathilda is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade."
+  },
+  {
+    "imdb_id": "tt6751668",
+    "title": "Gisaengchung",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "35",
+    "rate": "8.5",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+    "imdb_id": "tt0110357",
+    "title": "The Lion King",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+    "year": "(1994)",
+    "rank": "36",
+    "rate": "8.5",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+  },
+  {
+    "imdb_id": "tt0172495",
+    "title": "Gladiator",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2000)",
+    "rank": "37",
+    "rate": "8.5",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "imdb_id": "tt0120586",
+    "title": "American History X",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "year": "(1998)",
+    "rank": "38",
+    "rate": "8.5",
+    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+  },
+  {
+    "imdb_id": "tt0407887",
+    "title": "The Departed",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "year": "(2006)",
+    "rank": "39",
+    "rate": "8.5",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+  },
+  {
+    "imdb_id": "tt0114814",
+    "title": "The Usual Suspects",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg1OWQyNzAtZjRkNS00OGZmLWIyNWYtZTMxZDIyNGRkOWY2XkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "40",
+    "rate": "8.5",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+  },
+  {
+    "imdb_id": "tt0482571",
+    "title": "The Prestige",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZhOTVmOTEtZGIxZS00MmExLTk1OWItOTFhMzNjNzNiN2M4XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2006)",
+    "rank": "41",
+    "rate": "8.5",
+    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+  },
+  {
+    "imdb_id": "tt0034583",
+    "title": "Casablanca",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "year": "(1942)",
+    "rank": "42",
+    "rate": "8.5",
+    "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+  },
+  {
+    "imdb_id": "tt2582802",
+    "title": "Whiplash",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2014)",
+    "rank": "43",
+    "rate": "8.5",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+  },
+  {
+    "imdb_id": "tt1675434",
+    "title": "The Intouchables",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+    "year": "(2011)",
+    "rank": "44",
+    "rate": "8.5",
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+  },
+  {
+    "imdb_id": "tt0056058",
+    "title": "Seppuku",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "year": "(1962)",
+    "rank": "45",
+    "rate": "8.5",
+    "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so ... Read all"
+  },
+  {
+    "imdb_id": "tt0095327",
+    "title": "Hotaru no haka",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "year": "(1988)",
+    "rank": "46",
+    "rate": "8.5",
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II."
+  },
+  {
+    "imdb_id": "tt0027977",
+    "title": "Modern Times",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1936)",
+    "rank": "47",
+    "rate": "8.4",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+  },
+  {
+    "imdb_id": "tt0064116",
+    "title": "Once Upon a Time in the West",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1968)",
+    "rank": "48",
+    "rate": "8.4",
+    "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+  },
+  {
+    "imdb_id": "tt0047396",
+    "title": "Rear Window",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1954)",
+    "rank": "49",
+    "rate": "8.4",
+    "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend."
+  },
+  {
+    "imdb_id": "tt0021749",
+    "title": "City Lights",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1931)",
+    "rank": "50",
+    "rate": "8.4",
+    "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically."
+  },
+  {
+    "imdb_id": "tt0078748",
+    "title": "Alien",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI0ZmQ1OWMtYWZiMy00YzIxLTg4MjItOTYwMWYyYzZkZWQ3XkEyXkFqcGdeQXVyMTI1ODIyMzU3._V1_.jpg",
+    "year": "(1979)",
+    "rank": "51",
+    "rate": "8.4",
+    "description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+  },
+  {
+    "imdb_id": "tt0095765",
+    "title": "Nuovo Cinema Paradiso",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+    "year": "(1988)",
+    "rank": "52",
+    "rate": "8.4",
+    "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist."
+  },
+  {
+    "imdb_id": "tt0078788",
+    "title": "Apocalypse Now",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTE3OTAzYjMtYmE4OC00NGRjLTkyMGUtNTZlYzA1YzA3YWI3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(1979)",
+    "rank": "53",
+    "rate": "8.4",
+    "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+  },
+  {
+    "imdb_id": "tt0209144",
+    "title": "Memento",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2000)",
+    "rank": "54",
+    "rate": "8.4",
+    "description": "A man with short-term memory loss attempts to track down his wife's murderer."
+  },
+  {
+    "imdb_id": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODMzYzU3NmMtMDQ4ZC00MDRiLTgwN2QtMTY1NzA3YmRhMzJmXkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg",
+    "year": "(1981)",
+    "rank": "55",
+    "rate": "8.4",
+    "description": "Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis."
+  },
+  {
+    "imdb_id": "tt1853728",
+    "title": "Django Unchained",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZmMmFiYWUtMzkxMC00ZWI2LTg5MGItODBjNmRhOGM4YmNmXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2012)",
+    "rank": "56",
+    "rate": "8.4",
+    "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+  },
+  {
+    "imdb_id": "tt0910970",
+    "title": "WALL\u00b7E",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTcxZTczMTQtOTIwNS00M2QzLThjNzktYzVlMzAwZjMwMTg0XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2008)",
+    "rank": "57",
+    "rate": "8.4",
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+  },
+  {
+    "imdb_id": "tt0405094",
+    "title": "The Lives of Others",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(2006)",
+    "rank": "58",
+    "rate": "8.4",
+    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+  },
+  {
+    "imdb_id": "tt0043014",
+    "title": "Sunset Blvd.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "year": "(1950)",
+    "rank": "59",
+    "rate": "8.4",
+    "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return."
+  },
+  {
+    "imdb_id": "tt0050825",
+    "title": "Paths of Glory",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "60",
+    "rate": "8.4",
+    "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them."
+  },
+  {
+    "imdb_id": "tt0081505",
+    "title": "The Shining",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1980)",
+    "rank": "61",
+    "rate": "8.4",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+  },
+  {
+    "imdb_id": "tt0032553",
+    "title": "The Great Dictator",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1940)",
+    "rank": "62",
+    "rate": "8.4",
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+  },
+  {
+    "imdb_id": "tt0051201",
+    "title": "Witness for the Prosecution",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "63",
+    "rate": "8.4",
+    "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise."
+  },
+  {
+    "imdb_id": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "year": "(2018)",
+    "rank": "64",
+    "rate": "8.4",
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  },
+  {
+    "imdb_id": "tt0090605",
+    "title": "Aliens",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNjOTgxMzItMzhmNS00OTQ1LThjYWYtYjI5MDQwZGQ3M2I3XkEyXkFqcGdeQXVyNjc1NTYwMjc@._V1_.jpg",
+    "year": "(1986)",
+    "rank": "65",
+    "rate": "8.3",
+    "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
+  },
+  {
+    "imdb_id": "tt0169547",
+    "title": "American Beauty",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(1999)",
+    "rank": "66",
+    "rate": "8.3",
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+  },
+  {
+    "imdb_id": "tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4YTA2ZDktNzY4Yi00OGRkLWE3MmQtN2M0ZDU0ZjA0NjBhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2018)",
+    "rank": "67",
+    "rate": "8.3",
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+  },
+  {
+    "imdb_id": "tt0057012",
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1964)",
+    "rank": "68",
+    "rate": "8.3",
+    "description": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop."
+  },
+  {
+    "imdb_id": "tt1345836",
+    "title": "The Dark Knight Rises",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+    "year": "(2012)",
+    "rank": "69",
+    "rate": "8.3",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane."
+  },
+  {
+    "imdb_id": "tt0364569",
+    "title": "Oldeuboi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "70",
+    "rate": "8.3",
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+  },
+  {
+    "imdb_id": "tt7286456",
+    "title": "Joker",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1MjRmNDktNjg1Zi00OTE0LWE3ZTktZjZmNGQ1ZWEyN2ZhXkEyXkFqcGdeQXVyMTQwNDg3MDg@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "71",
+    "rate": "8.3",
+    "description": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain."
+  },
+  {
+    "imdb_id": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNiMDA0OWQtZGY1MC00N2EwLTkxNDYtYmVkNTk1NzJiZjFmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "year": "(2022)",
+    "rank": "72",
+    "rate": "8.3",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it."
+  },
+  {
+    "imdb_id": "tt0086879",
+    "title": "Amadeus",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "year": "(1984)",
+    "rank": "73",
+    "rate": "8.3",
+    "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him."
+  },
+  {
+    "imdb_id": "tt0114709",
+    "title": "Toy Story",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "74",
+    "rate": "8.3",
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom."
+  },
+  {
+    "imdb_id": "tt0112573",
+    "title": "Braveheart",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjJiMjlhZWUtZGJmZC00MDdhLTkyZDUtMTU2M2ZmNzI5NjQ2XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "75",
+    "rate": "8.3",
+    "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+  },
+  {
+    "imdb_id": "tt0361748",
+    "title": "Inglourious Basterds",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTlkNTNhNGUtNzg5Mi00YzMwLTlmNTMtMTk1Zjk2ZDZmZGViXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "76",
+    "rate": "8.3",
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+  },
+  {
+    "imdb_id": "tt2380307",
+    "title": "Coco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+    "year": "(2017)",
+    "rank": "77",
+    "rate": "8.3",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+  },
+  {
+    "imdb_id": "tt0082096",
+    "title": "Das Boot",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "year": "(1981)",
+    "rank": "78",
+    "rate": "8.3",
+    "description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic world of a submariner in World War II."
+  },
+  {
+    "imdb_id": "tt4154796",
+    "title": "Avengers: Endgame",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "79",
+    "rate": "8.3",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+  },
+  {
+    "imdb_id": "tt0119698",
+    "title": "Mononoke-hime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+    "year": "(1997)",
+    "rank": "80",
+    "rate": "8.3",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime."
+  },
+  {
+    "imdb_id": "tt0087843",
+    "title": "Once Upon a Time in America",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTBmNzM1YTMtYTRmMC00NTE1LThiNGUtMzVkZWFlZjQ5YzBmXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+    "year": "(1984)",
+    "rank": "81",
+    "rate": "8.3",
+    "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life."
+  },
+  {
+    "imdb_id": "tt0119217",
+    "title": "Good Will Hunting",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1997)",
+    "rank": "82",
+    "rate": "8.3",
+    "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life."
+  },
+  {
+    "imdb_id": "tt5311514",
+    "title": "Kimi no na wa.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjAxOGE2YmEtZjc4MS00ZjcxLWI5NTMtNDA2ZGU5ODQ4NTBmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+    "year": "(2016)",
+    "rank": "83",
+    "rate": "8.3",
+    "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"
+  },
+  {
+    "imdb_id": "tt0180093",
+    "title": "Requiem for a Dream",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2000)",
+    "rank": "84",
+    "rate": "8.3",
+    "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep."
+  },
+  {
+    "imdb_id": "tt0435761",
+    "title": "Toy Story 3",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDZiYTJlMjUtNDgxZS00ZmRjLWFmNWYtZmQ1ODllNGZlNmU5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2010)",
+    "rank": "85",
+    "rate": "8.3",
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+  },
+  {
+    "imdb_id": "tt0045152",
+    "title": "Singin' in the Rain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "year": "(1952)",
+    "rank": "86",
+    "rate": "8.3",
+    "description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood."
+  },
+  {
+    "imdb_id": "tt1187043",
+    "title": "3 Idiots",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYxZWRiNzQtYTRmMC00MmQ2LTkwMmYtMWYzOTViYTgyMTE1XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "87",
+    "rate": "8.3",
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\"."
+  },
+  {
+    "imdb_id": "tt0057565",
+    "title": "Tengoku to jigoku",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1963)",
+    "rank": "88",
+    "rate": "8.3",
+    "description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom."
+  },
+  {
+    "imdb_id": "tt0086190",
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFlNmMyYjctZjA4NC00ZDRkLWE2N2MtZjhiMDgyMDI0MjU3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(1983)",
+    "rank": "89",
+    "rate": "8.3",
+    "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap."
+  },
+  {
+    "imdb_id": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRjZDA1MWEtOGFiOS00ZDcxLTgwNTAtM2M2YjZkMTM2NmRlXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+    "year": "(1968)",
+    "rank": "90",
+    "rate": "8.3",
+    "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000."
+  },
+  {
+    "imdb_id": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIxMTEzOTUtYWJhYS00MDQwLThmNmItYzkyN2MzZGVkZmM1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2004)",
+    "rank": "91",
+    "rate": "8.3",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+  },
+  {
+    "imdb_id": "tt0105236",
+    "title": "Reservoir Dogs",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1992)",
+    "rank": "92",
+    "rate": "8.3",
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+  },
+  {
+    "imdb_id": "tt8267604",
+    "title": "Capharna\u00fcm",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "year": "(2018)",
+    "rank": "93",
+    "rate": "8.3",
+    "description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect."
+  },
+  {
+    "imdb_id": "tt2106476",
+    "title": "Jagten",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+    "year": "(2012)",
+    "rank": "94",
+    "rate": "8.3",
+    "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie."
+  },
+  {
+    "imdb_id": "tt0033467",
+    "title": "Citizen Kane",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1941)",
+    "rank": "95",
+    "rate": "8.3",
+    "description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'"
+  },
+  {
+    "imdb_id": "tt0056172",
+    "title": "Lawrence of Arabia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "year": "(1962)",
+    "rank": "96",
+    "rate": "8.3",
+    "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks."
+  },
+  {
+    "imdb_id": "tt0022100",
+    "title": "M - Eine Stadt sucht einen M\u00f6rder",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+    "year": "(1931)",
+    "rank": "97",
+    "rate": "8.3",
+    "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt."
+  },
+  {
+    "imdb_id": "tt0091251",
+    "title": "Idi i smotri",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_.jpg",
+    "year": "(1985)",
+    "rank": "98",
+    "rate": "8.3",
+    "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II."
+  },
+  {
+    "imdb_id": "tt0053125",
+    "title": "North by Northwest",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1959)",
+    "rank": "99",
+    "rate": "8.3",
+    "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt."
+  },
+  {
+    "imdb_id": "tt0052357",
+    "title": "Vertigo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1958)",
+    "rank": "100",
+    "rate": "8.2",
+    "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed."
+  },
+  {
+    "imdb_id": "tt0211915",
+    "title": "Le fabuleux destin d'Am\u00e9lie Poulain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "year": "(2001)",
+    "rank": "101",
+    "rate": "8.2",
+    "description": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love."
+  },
+  {
+    "imdb_id": "tt0066921",
+    "title": "A Clockwork Orange",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+    "year": "(1971)",
+    "rank": "102",
+    "rate": "8.2",
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+  },
+  {
+    "imdb_id": "tt0053604",
+    "title": "The Apartment",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "year": "(1960)",
+    "rank": "103",
+    "rate": "8.2",
+    "description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue."
+  },
+  {
+    "imdb_id": "tt0036775",
+    "title": "Double Indemnity",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "year": "(1944)",
+    "rank": "104",
+    "rate": "8.2",
+    "description": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator."
+  },
+  {
+    "imdb_id": "tt0093058",
+    "title": "Full Metal Jacket",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1987)",
+    "rank": "105",
+    "rate": "8.2",
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+  },
+  {
+    "imdb_id": "tt0044741",
+    "title": "Ikiru",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyYmQ2NDMtNWI1NS00MTNiLTk0NDctNWMwNWExYTNlYzk3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "year": "(1952)",
+    "rank": "106",
+    "rate": "8.2",
+    "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer."
+  },
+  {
+    "imdb_id": "tt8503618",
+    "title": "Hamilton",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+    "year": "(2020)",
+    "rank": "107",
+    "rate": "8.2",
+    "description": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast."
+  },
+  {
+    "imdb_id": "tt0086250",
+    "title": "Scarface",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVmY2M3MGEtYjY2Yi00YTYwLWE4YmMtZjkwMzlkMjY2MWIwXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+    "year": "(1983)",
+    "rank": "108",
+    "rate": "8.2",
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed."
+  },
+  {
+    "imdb_id": "tt0070735",
+    "title": "The Sting",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1973)",
+    "rank": "109",
+    "rate": "8.2",
+    "description": "Two grifters team up to pull off the ultimate con."
+  },
+  {
+    "imdb_id": "tt0056592",
+    "title": "To Kill a Mockingbird",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1962)",
+    "rank": "110",
+    "rate": "8.2",
+    "description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice."
+  },
+  {
+    "imdb_id": "tt0113277",
+    "title": "Heat",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "111",
+    "rate": "8.2",
+    "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist."
+  },
+  {
+    "imdb_id": "tt0075314",
+    "title": "Taxi Driver",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU3ZGQ1OTItYzNmNC00OWIzLWI2MDEtZGRjNmYwOGNmZWE1XkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg",
+    "year": "(1976)",
+    "rank": "112",
+    "rate": "8.2",
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+  },
+  {
+    "imdb_id": "tt1049413",
+    "title": "Up",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2JiNDliN2ItODY3OS00ZGJmLWI1NjEtMGVhNmRjZGI1MWZjXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "113",
+    "rate": "8.2",
+    "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway."
+  },
+  {
+    "imdb_id": "tt1255953",
+    "title": "Incendies",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2010)",
+    "rank": "114",
+    "rate": "8.2",
+    "description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes."
+  },
+  {
+    "imdb_id": "tt0017136",
+    "title": "Metropolis",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(1927)",
+    "rank": "115",
+    "rate": "8.2",
+    "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences."
+  },
+  {
+    "imdb_id": "tt1832382",
+    "title": "Jodaeiye Nader az Simin",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2011)",
+    "rank": "116",
+    "rate": "8.2",
+    "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease."
+  },
+  {
+    "imdb_id": "tt0119488",
+    "title": "L.A. Confidential",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1997)",
+    "rank": "117",
+    "rate": "8.2",
+    "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice."
+  },
+  {
+    "imdb_id": "tt0208092",
+    "title": "Snatch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "year": "(2000)",
+    "rank": "118",
+    "rate": "8.2",
+    "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond."
+  },
+  {
+    "imdb_id": "tt0040522",
+    "title": "Ladri di biciclette",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(1948)",
+    "rank": "119",
+    "rate": "8.2",
+    "description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it."
+  },
+  {
+    "imdb_id": "tt0095016",
+    "title": "Die Hard",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1988)",
+    "rank": "120",
+    "rate": "8.2",
+    "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles."
+  },
+  {
+    "imdb_id": "tt0097576",
+    "title": "Indiana Jones and the Last Crusade",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "year": "(1989)",
+    "rank": "121",
+    "rate": "8.2",
+    "description": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers."
+  },
+  {
+    "imdb_id": "tt8579674",
+    "title": "1917",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "122",
+    "rate": "8.2",
+    "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+  },
+  {
+    "imdb_id": "tt0986264",
+    "title": "Taare Zameen Par",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2007)",
+    "rank": "123",
+    "rate": "8.2",
+    "description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school."
+  },
+  {
+    "imdb_id": "tt0363163",
+    "title": "Der Untergang",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+    "year": "(2004)",
+    "rank": "124",
+    "rate": "8.2",
+    "description": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII."
+  },
+  {
+    "imdb_id": "tt0059578",
+    "title": "Per qualche dollaro in pi\u00f9",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM5M2I0NGMtMzhhMi00NmRiLWE1NTYtOTI4MWVkYjBlZGU3XkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+    "year": "(1965)",
+    "rank": "125",
+    "rate": "8.2",
+    "description": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw."
+  },
+  {
+    "imdb_id": "tt0372784",
+    "title": "Batman Begins",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(2005)",
+    "rank": "126",
+    "rate": "8.2",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption."
+  },
+  {
+    "imdb_id": "tt5074352",
+    "title": "Dangal",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+    "year": "(2016)",
+    "rank": "127",
+    "rate": "8.2",
+    "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression."
+  },
+  {
+    "imdb_id": "tt0012349",
+    "title": "The Kid",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1921)",
+    "rank": "128",
+    "rate": "8.2",
+    "description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy."
+  },
+  {
+    "imdb_id": "tt0053291",
+    "title": "Some Like It Hot",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1959)",
+    "rank": "129",
+    "rate": "8.2",
+    "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in."
+  },
+  {
+    "imdb_id": "tt0042192",
+    "title": "All About Eve",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+    "year": "(1950)",
+    "rank": "130",
+    "rate": "8.2",
+    "description": "A seemingly timid but secretly ruthless ing\u00e9nue insinuates herself into the lives of an aging Broadway star and her circle of theater friends."
+  },
+  {
+    "imdb_id": "tt10272386",
+    "title": "The Father",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "year": "(2020)",
+    "rank": "131",
+    "rate": "8.2",
+    "description": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality."
+  },
+  {
+    "imdb_id": "tt6966692",
+    "title": "Green Book",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+    "year": "(2018)",
+    "rank": "132",
+    "rate": "8.2",
+    "description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South."
+  },
+  {
+    "imdb_id": "tt0993846",
+    "title": "The Wolf of Wall Street",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdiNjU5OGItYWM2NS00N2M5LWFlMDYtNGI3YWI2NjNiMzViXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2013)",
+    "rank": "133",
+    "rate": "8.2",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+  },
+  {
+    "imdb_id": "tt0055031",
+    "title": "Judgment at Nuremberg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "year": "(1961)",
+    "rank": "134",
+    "rate": "8.2",
+    "description": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes."
+  },
+  {
+    "imdb_id": "tt0089881",
+    "title": "Ran",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1985)",
+    "rank": "135",
+    "rate": "8.2",
+    "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him."
+  },
+  {
+    "imdb_id": "tt0112641",
+    "title": "Casino",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "136",
+    "rate": "8.2",
+    "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite."
+  },
+  {
+    "imdb_id": "tt0457430",
+    "title": "Pan's Labyrinth",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(2006)",
+    "rank": "137",
+    "rate": "8.2",
+    "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
+  },
+  {
+    "imdb_id": "tt0105695",
+    "title": "Unforgiven",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1992)",
+    "rank": "138",
+    "rate": "8.2",
+    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\""
+  },
+  {
+    "imdb_id": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmUwOWVhNmEtZTAxMS00NjhmLTkzM2ItOTI5ODk3NjgyYjk4XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg",
+    "year": "(2021)",
+    "rank": "139",
+    "rate": "8.2",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+  },
+  {
+    "imdb_id": "tt0469494",
+    "title": "There Will Be Blood",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "year": "(2007)",
+    "rank": "140",
+    "rate": "8.2",
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+  },
+  {
+    "imdb_id": "tt0120382",
+    "title": "The Truman Show",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "year": "(1998)",
+    "rank": "141",
+    "rate": "8.2",
+    "description": "An insurance salesman discovers his whole life is actually a reality TV show."
+  },
+  {
+    "imdb_id": "tt0167404",
+    "title": "The Sixth Sense",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "year": "(1999)",
+    "rank": "142",
+    "rate": "8.2",
+    "description": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist."
+  },
+  {
+    "imdb_id": "tt0268978",
+    "title": "A Beautiful Mind",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(2001)",
+    "rank": "143",
+    "rate": "8.2",
+    "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+  },
+  {
+    "imdb_id": "tt0055630",
+    "title": "Y\u00f4jinb\u00f4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "year": "(1961)",
+    "rank": "144",
+    "rate": "8.2",
+    "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town."
+  },
+  {
+    "imdb_id": "tt0071853",
+    "title": "Monty Python and the Holy Grail",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1975)",
+    "rank": "145",
+    "rate": "8.1",
+    "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles."
+  },
+  {
+    "imdb_id": "tt0040897",
+    "title": "The Treasure of the Sierra Madre",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "year": "(1948)",
+    "rank": "146",
+    "rate": "8.1",
+    "description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains."
+  },
+  {
+    "imdb_id": "tt1130884",
+    "title": "Shutter Island",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMDE4ZjktNDAxZC00MDgwLWI2YjQtNzIzNWY1MjU4OWJkXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2010)",
+    "rank": "147",
+    "rate": "8.1",
+    "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane."
+  },
+  {
+    "imdb_id": "tt0107290",
+    "title": "Jurassic Park",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "year": "(1993)",
+    "rank": "148",
+    "rate": "8.1",
+    "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+  },
+  {
+    "imdb_id": "tt0042876",
+    "title": "Rash\u00f4mon",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExNTk0NTAxNF5BMl5BanBnXkFtZTgwMTM2OTE4MzE@._V1_.jpg",
+    "year": "(1950)",
+    "rank": "149",
+    "rate": "8.1",
+    "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter."
+  },
+  {
+    "imdb_id": "tt0057115",
+    "title": "The Great Escape",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "year": "(1963)",
+    "rank": "150",
+    "rate": "8.1",
+    "description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II."
+  },
+  {
+    "imdb_id": "tt0266697",
+    "title": "Kill Bill: Vol. 1",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "151",
+    "rate": "8.1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+  },
+  {
+    "imdb_id": "tt0477348",
+    "title": "No Country for Old Men",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+    "year": "(2007)",
+    "rank": "152",
+    "rate": "8.1",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "imdb_id": "tt0266543",
+    "title": "Finding Nemo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjY3MjcxZjctZGIzMS00MjJmLWI2YTQtNGE2NWYyZDc4NDIzXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "153",
+    "rate": "8.1",
+    "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
+  },
+  {
+    "imdb_id": "tt0080678",
+    "title": "The Elephant Man",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1980)",
+    "rank": "154",
+    "rate": "8.1",
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of kindness, intelligence and sophistication."
+  },
+  {
+    "imdb_id": "tt0071315",
+    "title": "Chinatown",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1974)",
+    "rank": "155",
+    "rate": "8.1",
+    "description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder."
+  },
+  {
+    "imdb_id": "tt0081398",
+    "title": "Raging Bull",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "year": "(1980)",
+    "rank": "156",
+    "rate": "8.1",
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
+  },
+  {
+    "imdb_id": "tt0084787",
+    "title": "The Thing",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "year": "(1982)",
+    "rank": "157",
+    "rate": "8.1",
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+  },
+  {
+    "imdb_id": "tt0031381",
+    "title": "Gone with the Wind",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1939)",
+    "rank": "158",
+    "rate": "8.1",
+    "description": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods."
+  },
+  {
+    "imdb_id": "tt0434409",
+    "title": "V for Vendetta",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+    "year": "(2005)",
+    "rank": "159",
+    "rate": "8.1",
+    "description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman."
+  },
+  {
+    "imdb_id": "tt2096673",
+    "title": "Inside Out",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRmZTc0YmEtMmI0My00M2EyLTg4M2ItMGIxNDM1NzM3MmVhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2015)",
+    "rank": "160",
+    "rate": "8.1",
+    "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+  },
+  {
+    "imdb_id": "tt0120735",
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "year": "(1998)",
+    "rank": "161",
+    "rate": "8.1",
+    "description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds."
+  },
+  {
+    "imdb_id": "tt0046912",
+    "title": "Dial M for Murder",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1954)",
+    "rank": "162",
+    "rate": "8.1",
+    "description": "A former tennis star arranges the murder of his adulterous wife."
+  },
+  {
+    "imdb_id": "tt1305806",
+    "title": "El secreto de sus ojos",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "163",
+    "rate": "8.1",
+    "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later."
+  },
+  {
+    "imdb_id": "tt0347149",
+    "title": "Hauru no ugoku shiro",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+    "year": "(2004)",
+    "rank": "164",
+    "rate": "8.1",
+    "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle."
+  },
+  {
+    "imdb_id": "tt0050212",
+    "title": "The Bridge on the River Kwai",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "165",
+    "rate": "8.1",
+    "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it."
+  },
+  {
+    "imdb_id": "tt5027774",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RiNTMzMmMtMDlkYi00YWVlLTllNTEtZDY5YTFhZmU3MTgzXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+    "year": "(2017)",
+    "rank": "166",
+    "rate": "8.1",
+    "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit."
+  },
+  {
+    "imdb_id": "tt0117951",
+    "title": "Trainspotting",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1996)",
+    "rank": "167",
+    "rate": "8.1",
+    "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
+  },
+  {
+    "imdb_id": "tt1291584",
+    "title": "Warrior",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "year": "(2011)",
+    "rank": "168",
+    "rate": "8.1",
+    "description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother."
+  },
+  {
+    "imdb_id": "tt1205489",
+    "title": "Gran Torino",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+    "year": "(2008)",
+    "rank": "169",
+    "rate": "8.1",
+    "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino."
+  },
+  {
+    "imdb_id": "tt0116282",
+    "title": "Fargo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1996)",
+    "rank": "170",
+    "rate": "8.1",
+    "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson."
+  },
+  {
+    "imdb_id": "tt1392214",
+    "title": "Prisoners",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "year": "(2013)",
+    "rank": "171",
+    "rate": "8.1",
+    "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts."
+  },
+  {
+    "imdb_id": "tt0096283",
+    "title": "Tonari no Totoro",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(1988)",
+    "rank": "172",
+    "rate": "8.1",
+    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby."
+  },
+  {
+    "imdb_id": "tt0405159",
+    "title": "Million Dollar Baby",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+    "year": "(2004)",
+    "rank": "173",
+    "rate": "8.1",
+    "description": "A determined woman works with a hardened boxing trainer to become a professional."
+  },
+  {
+    "imdb_id": "tt0264464",
+    "title": "Catch Me If You Can",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+    "year": "(2002)",
+    "rank": "174",
+    "rate": "8.1",
+    "description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit."
+  },
+  {
+    "imdb_id": "tt0015864",
+    "title": "The Gold Rush",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "year": "(1925)",
+    "rank": "175",
+    "rate": "8.1",
+    "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall."
+  },
+  {
+    "imdb_id": "tt0118849",
+    "title": "Bacheha-Ye aseman",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0MmVkYzYtZGZiOC00YTg5LTk3ZmItMWVhYjc2NTU4OTVjXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_.jpg",
+    "year": "(1997)",
+    "rank": "176",
+    "rate": "8.1",
+    "description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair."
+  },
+  {
+    "imdb_id": "tt0083658",
+    "title": "Blade Runner",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1982)",
+    "rank": "177",
+    "rate": "8.1",
+    "description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator."
+  },
+  {
+    "imdb_id": "tt0047296",
+    "title": "On the Waterfront",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1954)",
+    "rank": "178",
+    "rate": "8.1",
+    "description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims."
+  },
+  {
+    "imdb_id": "tt0041959",
+    "title": "The Third Man",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1949)",
+    "rank": "179",
+    "rate": "8.1",
+    "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime."
+  },
+  {
+    "imdb_id": "tt2024544",
+    "title": "12 Years a Slave",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+    "year": "(2013)",
+    "rank": "180",
+    "rate": "8.1",
+    "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+  },
+  {
+    "imdb_id": "tt0112471",
+    "title": "Before Sunrise",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1995)",
+    "rank": "181",
+    "rate": "8.1",
+    "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together."
+  },
+  {
+    "imdb_id": "tt0050986",
+    "title": "Smultronst\u00e4llet",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "182",
+    "rate": "8.1",
+    "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence."
+  },
+  {
+    "imdb_id": "tt0052618",
+    "title": "Ben-Hur",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1959)",
+    "rank": "183",
+    "rate": "8.1",
+    "description": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge."
+  },
+  {
+    "imdb_id": "tt1201607",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDhmNjUtMjY5ZC00YTdmLTk1Y2YtNjBiZmJlMjNiNWM5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2011)",
+    "rank": "184",
+    "rate": "8.1",
+    "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts."
+  },
+  {
+    "imdb_id": "tt0017925",
+    "title": "The General",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1926)",
+    "rank": "185",
+    "rate": "8.1",
+    "description": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines."
+  },
+  {
+    "imdb_id": "tt2267998",
+    "title": "Gone Girl",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+    "year": "(2014)",
+    "rank": "186",
+    "rate": "8.1",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  {
+    "imdb_id": "tt0077416",
+    "title": "The Deer Hunter",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1978)",
+    "rank": "187",
+    "rate": "8.1",
+    "description": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania."
+  },
+  {
+    "imdb_id": "tt0107207",
+    "title": "In the Name of the Father",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1993)",
+    "rank": "188",
+    "rate": "8.1",
+    "description": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them."
+  },
+  {
+    "imdb_id": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "year": "(2014)",
+    "rank": "189",
+    "rate": "8.1",
+    "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+  },
+  {
+    "imdb_id": "tt0072684",
+    "title": "Barry Lyndon",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1975)",
+    "rank": "190",
+    "rate": "8.1",
+    "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England."
+  },
+  {
+    "imdb_id": "tt0046268",
+    "title": "Le salaire de la peur",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE2ODNiZGItNGJiZS00MzBkLTgzZDktN2NmZGE0ZWU3N2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg",
+    "year": "(1953)",
+    "rank": "191",
+    "rate": "8.1",
+    "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe."
+  },
+  {
+    "imdb_id": "tt0015324",
+    "title": "Sherlock Jr.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "year": "(1924)",
+    "rank": "192",
+    "rate": "8.1",
+    "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
+  },
+  {
+    "imdb_id": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "year": "(1939)",
+    "rank": "193",
+    "rate": "8.1",
+    "description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character."
+  },
+  {
+    "imdb_id": "tt0353969",
+    "title": "Salinui chueok",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "194",
+    "rate": "8.1",
+    "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit."
+  },
+  {
+    "imdb_id": "tt2119532",
+    "title": "Hacksaw Ridge",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+    "year": "(2016)",
+    "rank": "195",
+    "rate": "8.1",
+    "description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot."
+  },
+  {
+    "imdb_id": "tt4729430",
+    "title": "Klaus",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q2Njg3ZmQtMDlmZi00NzE5LWJlOWYtY2I5NzhiZDdmNTk3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "196",
+    "rate": "8.1",
+    "description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions."
+  },
+  {
+    "imdb_id": "tt3011894",
+    "title": "Relatos salvajes",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQwMDM3ZTktNjkyNC00OTI5LTg1NDItYjZkZTY0OGFhODdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+    "year": "(2014)",
+    "rank": "197",
+    "rate": "8.1",
+    "description": "Six short stories that explore the extremities of human behavior involving people in distress."
+  },
+  {
+    "imdb_id": "tt0050976",
+    "title": "Det sjunde inseglet",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1957)",
+    "rank": "198",
+    "rate": "8.1",
+    "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague."
+  },
+  {
+    "imdb_id": "tt3170832",
+    "title": "Room",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVkZDBkNWQtZGE0Mi00N2JlLWFmYTgtZTJhNDNkZjA2YWQ1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(2015)",
+    "rank": "199",
+    "rate": "8.1",
+    "description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time."
+  },
+  {
+    "imdb_id": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2015)",
+    "rank": "200",
+    "rate": "8.1",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max."
+  },
+  {
+    "imdb_id": "tt0978762",
+    "title": "Mary and Max.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "201",
+    "rate": "8.1",
+    "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York."
+  },
+  {
+    "imdb_id": "tt0892769",
+    "title": "How to Train Your Dragon",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+    "year": "(2010)",
+    "rank": "202",
+    "rate": "8.1",
+    "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+  },
+  {
+    "imdb_id": "tt0118715",
+    "title": "The Big Lebowski",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ0YTBmNzItNzVmOC00NGNiLThiMzItYTI3NWZkZmQ3MjNkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "year": "(1998)",
+    "rank": "203",
+    "rate": "8.1",
+    "description": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife."
+  },
+  {
+    "imdb_id": "tt0073195",
+    "title": "Jaws",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "year": "(1975)",
+    "rank": "204",
+    "rate": "8.1",
+    "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+  },
+  {
+    "imdb_id": "tt0198781",
+    "title": "Monsters, Inc.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA4M2FhMzctYWY1Yy00YmNkLTlhMGEtODY4NTg0NjgyMDAwXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2001)",
+    "rank": "205",
+    "rate": "8.1",
+    "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think."
+  },
+  {
+    "imdb_id": "tt0019254",
+    "title": "La passion de Jeanne d'Arc",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1928)",
+    "rank": "206",
+    "rate": "8.1",
+    "description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions."
+  },
+  {
+    "imdb_id": "tt0046438",
+    "title": "T\u00f4ky\u00f4 monogatari",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1953)",
+    "rank": "207",
+    "rate": "8.1",
+    "description": "An old couple visit their children and grandchildren in the city, but receive little attention."
+  },
+  {
+    "imdb_id": "tt0097165",
+    "title": "Dead Poets Society",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU0ZDgyYjQtZDI0OS00NTI0LTlmYjMtYzZlZTg4MGNiMjdjXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+    "year": "(1989)",
+    "rank": "208",
+    "rate": "8.1",
+    "description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression."
+  },
+  {
+    "imdb_id": "tt0395169",
+    "title": "Hotel Rwanda",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2004)",
+    "rank": "209",
+    "rate": "8.1",
+    "description": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa."
+  },
+  {
+    "imdb_id": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBhNjk0MzMtOWRhMy00N2FkLTllZjgtMTBiYTI1YmZhNTFjXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg",
+    "year": "(2022)",
+    "rank": "210",
+    "rate": "8.0",
+    "description": "An aging Chinese immigrant is swept up in an insane adventure, in which she alone can save the world by exploring other universes connecting with the lives she could have led."
+  },
+  {
+    "imdb_id": "tt1950186",
+    "title": "Ford v Ferrari",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5M2MyMGEtODZiMi00MGVkLWI4ZjEtNWUwMzZmZTJhZDlkXkEyXkFqcGdeQXVyODMwNjE2OTM@._V1_.jpg",
+    "year": "(2019)",
+    "rank": "211",
+    "rate": "8.0",
+    "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966."
+  },
+  {
+    "imdb_id": "tt0075148",
+    "title": "Rocky",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVkMDc1MzgtNGNlNS00NzI2LThlMGEtZGI0MjdiNjE3NTAxXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg",
+    "year": "(1976)",
+    "rank": "212",
+    "rate": "8.0",
+    "description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect."
+  },
+  {
+    "imdb_id": "tt0091763",
+    "title": "Platoon",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1986)",
+    "rank": "213",
+    "rate": "8.0",
+    "description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict."
+  },
+  {
+    "imdb_id": "tt0048473",
+    "title": "Pather Panchali",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "year": "(1955)",
+    "rank": "214",
+    "rate": "8.0",
+    "description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work."
+  },
+  {
+    "imdb_id": "tt0092005",
+    "title": "Stand by Me",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1986)",
+    "rank": "215",
+    "rate": "8.0",
+    "description": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy."
+  },
+  {
+    "imdb_id": "tt0088247",
+    "title": "The Terminator",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "year": "(1984)",
+    "rank": "216",
+    "rate": "8.0",
+    "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation."
+  },
+  {
+    "imdb_id": "tt1895587",
+    "title": "Spotlight",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+    "year": "(2015)",
+    "rank": "217",
+    "rate": "8.0",
+    "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+  },
+  {
+    "imdb_id": "tt1979320",
+    "title": "Rush",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(2013)",
+    "rank": "218",
+    "rate": "8.0",
+    "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+  },
+  {
+    "imdb_id": "tt3315342",
+    "title": "Logan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(2017)",
+    "rank": "219",
+    "rate": "8.0",
+    "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
+  },
+  {
+    "imdb_id": "tt0074958",
+    "title": "Network",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "year": "(1976)",
+    "rank": "220",
+    "rate": "8.0",
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control."
+  },
+  {
+    "imdb_id": "tt0382932",
+    "title": "Ratatouille",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "year": "(2007)",
+    "rank": "221",
+    "rate": "8.0",
+    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant."
+  },
+  {
+    "imdb_id": "tt0758758",
+    "title": "Into the Wild",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "year": "(2007)",
+    "rank": "222",
+    "rate": "8.0",
+    "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters th... Read all"
+  },
+  {
+    "imdb_id": "tt0032138",
+    "title": "The Wizard of Oz",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+    "year": "(1939)",
+    "rank": "223",
+    "rate": "8.0",
+    "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes."
+  },
+  {
+    "imdb_id": "tt0381681",
+    "title": "Before Sunset",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+    "year": "(2004)",
+    "rank": "224",
+    "rate": "8.0",
+    "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour."
+  },
+  {
+    "imdb_id": "tt0107048",
+    "title": "Groundhog Day",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1993)",
+    "rank": "225",
+    "rate": "8.0",
+    "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right."
+  },
+  {
+    "imdb_id": "tt0070047",
+    "title": "The Exorcist",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQxNjdjNDctNDA5OS00NDg5LWEzNTgtNzYyYTMyMzAxYzczXkEyXkFqcGdeQXVyODA0MDg5NTg@._V1_.jpg",
+    "year": "(1973)",
+    "rank": "226",
+    "rate": "8.0",
+    "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter."
+  },
+  {
+    "imdb_id": "tt0036868",
+    "title": "The Best Years of Our Lives",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1946)",
+    "rank": "227",
+    "rate": "8.0",
+    "description": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed."
+  },
+  {
+    "imdb_id": "tt0035446",
+    "title": "To Be or Not to Be",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZlOGI5ZjYtN2UwNy00OGY0LTgxY2UtNDZhMzBkN2EyZmIyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "year": "(1942)",
+    "rank": "228",
+    "rate": "8.0",
+    "description": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy."
+  },
+  {
+    "imdb_id": "tt0317705",
+    "title": "The Incredibles",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgzNzdiZTQtODVhYi00ZTk4LTk2ZmEtYzFiYzdhYzliN2E3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+    "year": "(2004)",
+    "rank": "229",
+    "rate": "8.0",
+    "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world."
+  },
+  {
+    "imdb_id": "tt0058946",
+    "title": "La battaglia di Algeri",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1966)",
+    "rank": "230",
+    "rate": "8.0",
+    "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government."
+  },
+  {
+    "imdb_id": "tt15097216",
+    "title": "Jai Bhim",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+    "year": "(2021)",
+    "rank": "231",
+    "rate": "8.0",
+    "description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice."
+  },
+  {
+    "imdb_id": "tt0032551",
+    "title": "The Grapes of Wrath",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1940)",
+    "rank": "232",
+    "rate": "8.0",
+    "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression."
+  },
+  {
+    "imdb_id": "tt1028532",
+    "title": "Hachi: A Dog's Tale",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2009)",
+    "rank": "233",
+    "rate": "8.0",
+    "description": "A college professor bonds with an abandoned dog he takes into his home."
+  },
+  {
+    "imdb_id": "tt0032976",
+    "title": "Rebecca",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1940)",
+    "rank": "234",
+    "rate": "8.0",
+    "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence."
+  },
+  {
+    "imdb_id": "tt0245712",
+    "title": "Amores perros",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(2000)",
+    "rank": "235",
+    "rate": "8.0",
+    "description": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love."
+  },
+  {
+    "imdb_id": "tt0476735",
+    "title": "Babam ve Oglum",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDEwMWQ3ZDctMjRkOC00MGE1LTk4NjktYjA3MGIyNjA5N2FiXkEyXkFqcGdeQXVyNjEyNDcyMDU@._V1_.jpg",
+    "year": "(2005)",
+    "rank": "236",
+    "rate": "8.0",
+    "description": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980."
+  },
+  {
+    "imdb_id": "tt0325980",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2003)",
+    "rank": "237",
+    "rate": "8.0",
+    "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead."
+  },
+  {
+    "imdb_id": "tt0061512",
+    "title": "Cool Hand Luke",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1967)",
+    "rank": "238",
+    "rate": "8.0",
+    "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform."
+  },
+  {
+    "imdb_id": "tt0113247",
+    "title": "La haine",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JjNjE2OTgtNjFjYy00YjA4LTk1MDEtZjc2NDM4ZmU0NDhlXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "year": "(1995)",
+    "rank": "239",
+    "rate": "8.0",
+    "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot."
+  },
+  {
+    "imdb_id": "tt0053198",
+    "title": "Les quatre cents coups",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "year": "(1959)",
+    "rank": "240",
+    "rate": "8.0",
+    "description": "A young boy, left without attention, delves into a life of petty crime."
+  },
+  {
+    "imdb_id": "tt0060827",
+    "title": "Persona",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1966)",
+    "rank": "241",
+    "rate": "8.0",
+    "description": "A nurse is put in charge of a mute actress and finds that their personae are melding together."
+  },
+  {
+    "imdb_id": "tt0025316",
+    "title": "It Happened One Night",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1934)",
+    "rank": "242",
+    "rate": "8.0",
+    "description": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops."
+  },
+  {
+    "imdb_id": "tt4016934",
+    "title": "Ah-ga-ssi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "year": "(2016)",
+    "rank": "243",
+    "rate": "8.0",
+    "description": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her."
+  },
+  {
+    "imdb_id": "tt0079470",
+    "title": "Life of Brian",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "year": "(1979)",
+    "rank": "244",
+    "rate": "8.0",
+    "description": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah."
+  },
+  {
+    "imdb_id": "tt0059742",
+    "title": "The Sound of Music",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "year": "(1965)",
+    "rank": "245",
+    "rate": "8.0",
+    "description": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer."
+  },
+  {
+    "imdb_id": "tt0071411",
+    "title": "Dersu Uzala",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "year": "(1975)",
+    "rank": "246",
+    "rate": "8.0",
+    "description": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter."
+  },
+  {
+    "imdb_id": "tt0083987",
+    "title": "Gandhi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "year": "(1982)",
+    "rank": "247",
+    "rate": "8.0",
+    "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest."
+  },
+  {
+    "imdb_id": "tt1454029",
+    "title": "The Help",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "year": "(2011)",
+    "rank": "248",
+    "rate": "8.0",
+    "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis."
+  },
+  {
+    "imdb_id": "tt0103639",
+    "title": "Aladdin",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+    "year": "(1992)",
+    "rank": "249",
+    "rate": "8.0",
+    "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+  },
+  {
+    "imdb_id": "tt0129167",
+    "title": "The Iron Giant",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjZhNDgtZjBmOC00NjNiLWFhYjQtNjE3NmUyNjAwMGUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "year": "(1999)",
+    "rank": "250",
+    "rate": "8.0",
+    "description": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy."
+  }
+]

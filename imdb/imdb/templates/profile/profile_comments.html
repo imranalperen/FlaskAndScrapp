@@ -1,0 +1,29 @@
+{% extends 'profile/baseprofile.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+
+    <h2>COMMENTS</h2>
+    <hr>
+    <h2>Movies Comments</h2>
+    <br>
+    {% for comment in movie_comments %}
+        <h4>{{ comment.username }} | <small>Posted at: {{ comment.date }}</small></h4>
+        <h5>{{ comment.movie_title }}</h5>
+        <p>{{ comment.comment }}</p>
+        <hr>
+    {% endfor %}
+    <br>
+    <h2>Actors Comments</h2>
+    {% for comment in actor_comments %}
+        <h4>{{ comment.username }} | <small>Posted at: {{ comment.date }}</small></h4>
+        <h5>{{ comment.actor_name }}</h5>
+        <p>{{ comment.comment }}</p>
+        <hr>
+    {% endfor %}
+        
+{% endblock %}

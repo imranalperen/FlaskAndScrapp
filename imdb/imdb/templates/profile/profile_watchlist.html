@@ -1,0 +1,30 @@
+{% extends 'profile/baseprofile.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+{% block body %}
+
+    <h2>WATCHLIST</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Poster</th>
+                <th>Title</th>
+            </tr>    
+        </thead>
+        <tbody>
+            {% for watch in watchlist%}
+                <tr>
+                    <td><a href="{{ url_for('general.details', movie_id = watch.movie_id) }}"><img src="{{ watch.poster }}" width="60px" height="80px"></a></td>
+                    <td><a href="{{ url_for('general.details', movie_id = watch.movie_id) }}"><h4>{{ watch.title }}</h4></a></td>
+                    <td><a href="{{ url_for('general.remove_watchlist', movie_id = watch.movie_id) }}"><span class="glyphicon glyphicon-minus"></span></a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+        
+        
+{% endblock %}
