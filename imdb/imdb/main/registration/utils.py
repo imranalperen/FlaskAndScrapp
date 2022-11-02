@@ -80,7 +80,7 @@ def check_password(username, hashed_password):
 
 def code_mail(mail_adress):
     email_sender = "pythonblogtest@gmail.com"
-    email_password = "lkvziuktllpgxiep"
+    email_password = "**************"
     email_receiver = mail_adress
     subject = "VERIFY MAIL"
     random_number = random.randint(1000,9999)
